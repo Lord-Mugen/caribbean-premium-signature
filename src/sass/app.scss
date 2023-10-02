@@ -1,35 +1,39 @@
+//Tailwind CSS
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 /*
 * settings:
 */
-@import 'settings/module';
+@import "settings/module";
 
 /*
 * Tools:
 */
-@import 'tools/module';
+@import "tools/module";
 
 /*
 * Generic:
 */
-@import 'generic/module';
+@import "generic/module";
 
 /*
 * Objects:
 */
-@import 'objects/module';
+@import "objects/module";
 
 /*
 * Components:
 */
-@import 'components/module';
+@import "components/module";
 
 /*
 * Utilities:
 */
-@import 'utilities/module';
+@import "utilities/module";
 
 /*
 * Vendors:
 */
-@import 'vendors/module';
+@import "vendors/module";

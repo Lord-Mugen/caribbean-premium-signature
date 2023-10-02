@@ -1,9 +1,10 @@
 import "./App.css";
+import Hero from "./components/hero/Hero";
 
 const App = () => {
   return (
     <>
-      <h1>Hola mundo</h1>
+      <Hero />
     </>
   );
 };
