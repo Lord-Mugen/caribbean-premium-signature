@@ -1,0 +1,8 @@
+.hero__content-container {
+  background-image: url("../../assets/images/mobile/I1.jpg");
+  background-size: cover;
+
+  @media (min-width: 48em) {
+    background-image: url("../../assets/images/desktop/I1.jpg");
+  }
+}

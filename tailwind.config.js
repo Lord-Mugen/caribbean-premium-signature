@@ -12,6 +12,20 @@ export default {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
       },
+      width: {
+        50: "50rem",
+        4: "1rem",
+      },
+      height: {
+        "112vh": "112vh",
+      },
+      padding: {
+        3: "3px",
+        1.7: "1.75rem",
+      },
+      margin: {
+        half: "50%",
+      },
     },
     screens: {
       sm: "320px",
