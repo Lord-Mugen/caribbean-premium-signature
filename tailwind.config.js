@@ -26,9 +26,15 @@ export default {
       margin: {
         half: "50%",
       },
+      fontSize: {
+        6: "6rem",
+        7: "7rem",
+        1.8: "1.8rem",
+      },
     },
     screens: {
       sm: "320px",
+      x2sm: "425px",
       md: "768px",
       lg: "1024px",
       xl: "1440px",

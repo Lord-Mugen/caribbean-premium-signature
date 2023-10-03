@@ -5,3 +5,13 @@
 * {
   scroll-behavior: smooth;
 }
+
+@font-face {
+  font-family: "Aribau";
+  src: url("./assets/fonts/EMT_AribauGrotesk_TRIAL/AribauGroteskTRIAL-Bd.otf")
+      format("otf"),
+    url("./assets/fonts/EMT_AribauGrotesk_TRIAL/AribauGroteskTRIAL-Lt.otf")
+      format("otf");
+  font-weight: normal;
+  font-style: normal;
+}

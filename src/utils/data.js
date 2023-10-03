@@ -1,13 +1,13 @@
 export const elements = {
   titles: {
     hero: "caribbean",
-    titles_3: "print étnico",
-    titles_4: "sofisticación",
-    titles_5: "inspiración",
+    title_3: "print étnico",
+    title_4: "sofisticación",
+    title_5: "inspiración",
   },
   subtitles: {
     hero_sub: "premium signature",
-    sub_2: "Elegancia eclética",
+    elegance: "Elegancia eclética",
     sub_3: "atemporal",
     sub_4: "étnica",
   },
