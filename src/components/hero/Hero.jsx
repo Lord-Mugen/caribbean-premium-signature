@@ -25,8 +25,8 @@ const Hero = () => {
             </button>
           </div>
         </div>
-        <hr className="hero__text-upperline w-40 gray mt-10 " />
-        <p className="hero__paragraph pt-16 pb-16 text-center md:hidden text-gray">
+        <p className="hero__paragraph pt-12 pb-16 text-center grid justify-items-center md:hidden text-gray">
+          <hr className="hero__text-upperline w-40 gray mb-7 " />
           {elements.paragraphs.hero}
         </p>
       </section>

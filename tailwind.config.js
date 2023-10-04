@@ -15,21 +15,35 @@ export default {
       width: {
         50: "50rem",
         4: "1rem",
+        19: "19rem",
       },
       height: {
         "112vh": "112vh",
+        "70vh": "70vh",
+        "95vh": "95vh",
+        "90%": "90%",
+        200: "200px",
+        420: "420px",
+        500: "500px",
+        600: "600px",
+        700: "700px",
+        800: "800px",
       },
       padding: {
         3: "3px",
         1.7: "1.75rem",
+        5: "5rem",
       },
       margin: {
         half: "50%",
       },
       fontSize: {
+        3.5: "3.5rem",
         6: "6rem",
         7: "7rem",
         1.8: "1.8rem",
+        1.3: "1.3rem",
+        2.5: "2.5rem",
       },
     },
     screens: {

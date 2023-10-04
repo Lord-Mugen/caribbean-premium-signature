@@ -10,8 +10,8 @@ const Print = () => {
         <img src={I2} alt="image" className="print__image image1 w-full" />
         <img src={I3} alt="image" className="print__image image2 p-8" />
       </div>
-      <div className="print__title-container flex flex-col justify-center">
-        <h2 className="print__title font-Aribau font-serif font-semibold uppercase text-6 text-center text-gray x2sm:pl-1 x2sm:pr-1 x2sm:text-7">
+      <div className="print__title-container flex flex-col justify-center pt-5 pb-12">
+        <h2 className="print__title font-Aribau font-serif font-semibold uppercase text-6 text-center text-gray leading-none x2sm:pl-1 x2sm:pr-1 x2sm:text-7">
           {elements.titles.title_3}
         </h2>
         <span className="print__subtitle text-center text-1.8 text-gray">
