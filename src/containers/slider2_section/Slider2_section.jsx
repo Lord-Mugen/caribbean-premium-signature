@@ -3,8 +3,8 @@ import I10 from "../../assets/images/desktop/I10.jpg";
 
 const Slider2_section = () => {
   return (
-    <section className="slider2_section">
-      <div className="slider2_section-img-container">
+    <section className="slider2_section lg:pl-4 lg:pr-4">
+      <div className="slider2_section-img-container hidden md:block">
         <img src={I10} alt="" />
       </div>
       <div className="slider2_section-slider-container md:hidden">

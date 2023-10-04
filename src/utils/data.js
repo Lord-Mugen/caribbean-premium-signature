@@ -3,13 +3,13 @@ export const elements = {
     hero: "caribbean",
     title_3: "print étnico",
     title_4: "sofisticación",
-    title_5: "inspiración",
+    title_5: "inspiración ",
   },
   subtitles: {
     hero_sub: "Premium Signature",
     elegance: "Elegancia eclética",
     sub_3: "atemporal",
-    sub_4: "étnica",
+    sub_4: " étnica",
   },
   paragraphs: {
     hero: "Con Caribbean Premium Signature presentamos una colección en la que más allá de tendencias se habla de un estilo atemporal, creado con materiales premium que elevan la sofisticación de las prendas.",
