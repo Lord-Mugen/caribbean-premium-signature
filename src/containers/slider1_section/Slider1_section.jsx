@@ -29,7 +29,7 @@ const Slider1_section = () => {
               alt="imagen de la galería"
               className="slider1_section-gallery-img"
             />
-            <button className="card__btn w-58 h-12 md:w-80 md:h-16 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[72%] left-[15%]">
+            <button className="card__btn w-58 h-12 md:w-48 md:h-10 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[60%] left-[10%]">
               {elements.cta.cta_2}
             </button>
           </div>
@@ -39,7 +39,7 @@ const Slider1_section = () => {
               alt="imagen de la galería"
               className="slider1_section-gallery-img"
             />
-            <button className="card__btn w-58 h-12 md:w-80 md:h-16 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[72%] left-[15%]">
+            <button className="card__btn w-58 h-12 md:w-48 md:h-10 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[60%] left-[10%]">
               {elements.cta.cta_2}
             </button>
           </div>
@@ -49,7 +49,7 @@ const Slider1_section = () => {
               alt="imagen de la galería"
               className="slider1_section-gallery-img"
             />
-            <button className="card__btn w-58 h-12 md:w-80 md:h-16 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[72%] left-[15%]">
+            <button className="card__btn w-58 h-12 md:w-48 md:h-10 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[60%] left-[10%]">
               {elements.cta.cta_2}
             </button>
           </div>
@@ -59,7 +59,7 @@ const Slider1_section = () => {
               alt="imagen de la galería"
               className="slider1_section-gallery-img"
             />
-            <button className="card__btn w-58 h-12 md:w-80 md:h-16 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[72%] left-[15%]">
+            <button className="card__btn w-58 h-12 md:w-48 md:h-10 uppercase border-2 border-white text-white rounded-xl cursor-pointer pt-0 pb-0 pl-7 pr-7 mt-14 hover:bg-white hover:text-gray absolute top-[60%] left-[10%]">
               {elements.cta.cta_2}
             </button>
           </div>
