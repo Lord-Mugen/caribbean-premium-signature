@@ -14,7 +14,7 @@ const Inspiration = () => {
               {elements.subtitles.sub_4}
             </span>
           </h1>
-          <p className="inspiration__section-title text-center text-1.3 w-4/5 pt-10 text-gray">
+          <p className="inspiration__section-title text-center text-1.3 w-4/5 pt-7 text-gray">
             {elements.paragraphs.paragraph_3}
           </p>
         </div>

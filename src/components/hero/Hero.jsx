@@ -1,5 +1,6 @@
 import "./hero.scss";
 import { elements } from "../../utils/data";
+import Grupo11 from "../../assets/images/desktop/Grupo11.png";
 
 const Hero = () => {
   return (
@@ -7,13 +8,8 @@ const Hero = () => {
       <section className="hero h-auto grid">
         <div className="hero__content-container  bg-no-repeat bg-center grid md:justify-items-left items-end md:items-center text-white h-112vh pb-28 md:p-10">
           <div className="hero__content mb-5 grid justify-items-center md:justify-items-center md:h- md:w-1/2">
-            <div className="grid justify-center h-20">
-              <h1 className="hero__title uppercase text-center font-Cinzel text-4 md:text-6 lg:text-10 leading-1 md:leading-7">
-                {elements.titles.hero}
-              </h1>
-              <span className="text-center font-Tangerine text-5 font-thin ">
-                {elements.subtitles.hero_sub}
-              </span>
+            <div className="grid justify-center h-20 md:pb-40">
+              <img src={Grupo11} alt="hero image" />
             </div>
             <div className="hero__paragraph-container md:mt-16 grid justify-items-center md:pt-16 lg:pt-8">
               <hr className="hero__text-upperline w-96 gray mb-7 hidden md:block " />
