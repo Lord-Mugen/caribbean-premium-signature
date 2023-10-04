@@ -6,7 +6,7 @@ export const elements = {
     title_5: "inspiración",
   },
   subtitles: {
-    hero_sub: "premium signature",
+    hero_sub: "Premium Signature",
     elegance: "Elegancia eclética",
     sub_3: "atemporal",
     sub_4: "étnica",

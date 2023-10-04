@@ -11,6 +11,10 @@ export default {
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
+        Cinzel: ["Cinzel Decorative", "cursive"],
+        aribau: ["Aribau", "sans-serif"],
+        sonnambula: ["Sonnambula", "sans-serif"],
+        Tangerine: ["Tangerine", "cursive"],
       },
       width: {
         50: "50rem",
@@ -29,18 +33,29 @@ export default {
         700: "700px",
         800: "800px",
       },
+      lineHeight: {
+        1: "1rem",
+        4.1: "4rem",
+        7: "7rem",
+      },
       padding: {
         3: "3px",
         1.7: "1.75rem",
         5: "5rem",
+        8: "8rem",
       },
       margin: {
         half: "50%",
       },
       fontSize: {
         3.5: "3.5rem",
+        3.1: "3rem",
+        4: "4rem",
+        5: "5rem",
         6: "6rem",
         7: "7rem",
+        8: "8rem",
+        10: "10rem",
         1.8: "1.8rem",
         1.3: "1.3rem",
         2.5: "2.5rem",

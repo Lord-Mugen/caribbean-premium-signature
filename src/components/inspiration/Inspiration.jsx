@@ -4,8 +4,8 @@ import { elements } from "../../utils/data";
 
 const Inspiration = () => {
   return (
-    <section className="inspiration mt-10 pb-20">
-      <div className="inspiration__section">
+    <section className="inspiration mt-10 pb-20 grid justify-items-center">
+      <div className="inspiration__section grid justify-items-center">
         <img src={I13} alt="imagen 13" className="inspiration__section-img" />
         <div className="inspiration__section-content grid content-center justify-items-center p-3 pt-10 pb-10">
           <h1 className="inspiration__section-title uppercase grid text-center text-3.5 font-medium text-gray">
