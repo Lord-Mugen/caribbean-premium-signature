@@ -21,5 +21,6 @@ export const elements = {
   cta: {
     hero_cta: "ver la colección",
     cta_2: "compra ahora",
+    cta_3: "ver complementos",
   },
 };
